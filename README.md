@@ -1,4 +1,4 @@
-This project is made using REACT and FIREBASE.
+This project is made using REACT and FIREBASE.<br/>
 Live demo 👉 https://slack-clone-8aa72.web.app/
 
 
